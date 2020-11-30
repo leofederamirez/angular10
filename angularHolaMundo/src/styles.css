@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.nombre{
+    color: grey;
+    text-shadow: 2px 2px black;
+
+}
+small{
+    color: green;
+}
